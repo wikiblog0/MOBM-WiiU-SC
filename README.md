@@ -1,6 +1,8 @@
 # Milk outside a bag of Milk: Wii U Edition
 
 **A homebrew recreation of Milk outside a bag of Milk for the Wii U.** <br>
+* All the programs necessary to compile the game are in the release's section, only you have to provide the original game assets of the game from the steam version.
+* This repository is only by preservation purposes.
 
 ## About
 Milk outside a bag of Milk: Wii U Edition is a fan-made homebrew port of *Milk outside a bag of Milk*, developed from scratch for the Wii U. This project aims to faithfully recreate the experience of the original game while optimizing it for Nintendo's console. This remake also make serval improvement that the Switch version implemented badly.
